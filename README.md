@@ -1,6 +1,6 @@
 # Hi, I'm Pratyush
 
-I'm a CS + AI undergraduate at Cornell, Class of 2028. I build web apps and machine learning tools.
+I'm a CS + AI undergraduate at Cornell. 
 
 A few projects:
 
